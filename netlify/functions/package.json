@@ -1,0 +1,7 @@
+{
+ "name": "gemini-knowledge-bot-cloud",
+ "version": "1.0.0",
+ "dependencies": {
+ "@google/genai": "latest"
+ }
+}
